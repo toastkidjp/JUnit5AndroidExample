@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jp.toastkid.junit5androidexample">
+
+    <application
+        android:allowBackup="true"
+        android:supportsRtl="true"
+        />
+</manifest>
