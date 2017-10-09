@@ -25,7 +25,7 @@ class ExampleJUnit5JavaTest {
                     @Override
                     public void execute() throws Throwable {
                         System.out.println("2nd");
-                        assertEquals(3, 0 + 1);
+                        assertEquals(2, 1 + 1);
                     }
                 },
                 new Executable() {
